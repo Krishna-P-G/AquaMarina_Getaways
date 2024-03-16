@@ -1,3 +1,3 @@
-# AquaMarina_Getaways
+# SeniorVerve CloudCare
 
-## AquaMarina Getaways is your one-stop solution for seamlessly booking boating houses online. This project is done using *ReactJS* , *SpringBoot* & *PostgreSql*.
+## SeniorVerve CloudCare is your one-stop solution for getting senior services & care. This project is done using *ReactJS* , *SpringBoot* & *PostgreSql*.
